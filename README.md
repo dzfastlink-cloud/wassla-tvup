@@ -1,2 +1,2 @@
 # wassla-tvup
-wassla-tvup
+wassla-tv
